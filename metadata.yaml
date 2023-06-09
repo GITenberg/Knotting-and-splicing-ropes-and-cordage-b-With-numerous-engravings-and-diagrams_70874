@@ -1,5 +1,8 @@
 _repo: Knotting-and-splicing-ropes-and-cordage-b-With-numerous-engravings-and-diagrams_70874
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70874-h/images/cover.jpg
 creator:
   editor:
     agent_name: Hasluck, Paul N. (Paul Nooncree)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41290
     wikipedia: https://en.wikipedia.org/wiki/Paul_Nooncree_Hasluck
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70874#Knotting-and-splicing-ropes-and-cordage-b-With-numerous-engravings-and-diagrams
 gutenberg_issued: '2023-05-28'
 identifiers:
   gutenberg: '70874'
